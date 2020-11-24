@@ -1,0 +1,185 @@
+
+Paragraph Analysis
+(raw_data/paragraph_1.txt)
+---------------------------
+Approximate Word Count: 130
+Approximate Sentence Count: 5
+Average Letter Count: 6.40769230769
+Average Sentence Length: 26.0
+
+Paragraph Analysis
+(raw_data/paragraph_2.txt)
+---------------------------
+Approximate Word Count: 294
+Approximate Sentence Count: 9
+Average Letter Count: 5.08843537415
+Average Sentence Length: 31.8888888889
+
+Paragraph Analysis
+(raw_data/paragraph_2.txt)
+---------------------------
+Approximate Word Count: 294
+Approximate Sentence Count: 9
+Average Letter Count: 5.08843537414966
+Average Sentence Length: 31.88888888888889
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 294
+Approximate Sentence Count: 9
+Average Letter Count: 5.08843537414966
+Average Sentence Length: 31.88888888888889
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 294
+Approximate Sentence Count: 9
+Average Letter Count: 5.08843537414966
+Average Sentence Length: 31.88888888888889
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 26
+Approximate Sentence Count: 1
+Average Letter Count: 4.961538461538462
+Average Sentence Length: 26.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 25
+Approximate Sentence Count: 1
+Average Letter Count: 5.16
+Average Sentence Length: 25.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 130
+Approximate Sentence Count: 5
+Average Letter Count: 6.392307692307693
+Average Sentence Length: 26.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 294
+Approximate Sentence Count: 9
+Average Letter Count: 5.08843537414966
+Average Sentence Length: 31.88888888888889
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Average Letter Count: 5.420289855072464
+Average Sentence Length: 138.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Average Letter Count: 5.4855072463768115
+Average Sentence Length: 138.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Average Letter Count: 5.4855072463768115
+Average Sentence Length: 138.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 294
+Approximate Sentence Count: 9
+Average Letter Count: 5.08843537414966
+Average Sentence Length: 31.88888888888889
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Average Letter Count: 5.420289855072464
+Average Sentence Length: 138.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Average Letter Count: 5.420289855072464
+Average Sentence Length: 138.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Average Letter Count: 5.420289855072464
+Average Sentence Length: 138.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 276
+Approximate Sentence Count: 2
+Average Letter Count: 5.420289855072464
+Average Sentence Length: 138.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 285
+Approximate Sentence Count: 9
+Average Letter Count: 5.249122807017544
+Average Sentence Length: 31.666666666666668
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 285
+Approximate Sentence Count: 9
+Average Letter Count: 5.249122807017544
+Average Sentence Length: 31.666666666666668
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 122
+Approximate Sentence Count: 5
+Average Letter Count: 4.532786885245901
+Average Sentence Length: 24.4
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 122
+Approximate Sentence Count: 6
+Average Letter Count: 4.532786885245901
+Average Sentence Length: 20.333333333333332
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 121
+Approximate Sentence Count: 5
+Average Letter Count: 4.56198347107438
+Average Sentence Length: 24.2
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 120
+Approximate Sentence Count: 5
+Average Letter Count: 4.6
+Average Sentence Length: 24.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 120
+Approximate Sentence Count: 5
+Average Letter Count: 4.6
+Average Sentence Length: 24.0
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 285
+Approximate Sentence Count: 9
+Average Letter Count: 5.249122807017544
+Average Sentence Length: 31.666666666666668
+
+Paragraph Analysis
+-----------------
+Approximate Word Count: 120
+Approximate Sentence Count: 5
+Average Letter Count: 4.6
+Average Sentence Length: 24.0
