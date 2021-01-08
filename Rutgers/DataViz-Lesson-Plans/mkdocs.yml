@@ -1,0 +1,10 @@
+site_name: DataViz Prework
+docs_dir: 00-Prework/docs
+pages:
+    - Module 1 - Prepare for Pre-Work!: modules/module-1-prepare-for-prework.md
+    - Module 2 - Get Yo’self Machine Ready: modules/module-2-machine-ready.md
+    - Module 3 - Time to get Employable: modules/module-3-time-to-get-employable.md
+    - Module 4 - Get Your Mind Right (Required): modules/module-4-get-your-mind-right.md
+    - Module 5 Let’s Get To Work (Assignment Required): modules/module-5-assignment-required-turn-in.md
+    - Want More?: modules/want-more-supplemental-resources-for-the-curious-of-mind.md
+theme: readthedocs

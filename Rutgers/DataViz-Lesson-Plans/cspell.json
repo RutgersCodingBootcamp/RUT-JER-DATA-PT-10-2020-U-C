@@ -1,0 +1,264 @@
+{
+  "version": "0.1",
+  "language": "en",
+  "allowCompoundWords": true,
+  "dictionaries": [
+    "php",
+    "corp-terms",
+    "fonts",
+    "python",
+    "css",
+    "csharp",
+    "node",
+    "typescript",
+    "html",
+    "npm",
+    "softwareTerms",
+    "companies",
+    "en_US",
+    "bootcamp",
+    "Prework",
+    "Unit 1",
+    "Unit 2",
+    "Unit 3",
+    "Unit 4",
+    "Unit 5",
+    "Unit 6",
+    "Unit 7",
+    "Unit 8",
+    "Unit 9",
+    "Unit 10",
+    "Unit 11",
+    "Unit 12",
+    "Unit 13",
+    "Unit 14",
+    "Unit 15",
+    "Unit 16",
+    "Unit 17",
+    "Unit 18",
+    "Unit 19",
+    "Unit 20",
+    "Unit 21",
+    "Unit 22",
+    "Unit 23",
+    "Unit 24",
+    "Homework"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "bootcamp",
+      "path": "./spellcheck-dictionaries/.spellcheck-dictionary.txt"
+    },
+    {
+      "name": "Homework",
+      "path": "./spellcheck-dictionaries/homework.txt"
+    },
+    {
+      "name": "Prework",
+      "path": "./spellcheck-dictionaries/00-Prework.txt"
+    },
+    {
+      "name": "Unit 1",
+      "path": "./spellcheck-dictionaries/01-excel.txt"
+    },
+    {
+      "name": "Unit 2",
+      "path": "./spellcheck-dictionaries/02-VBA.txt"
+    },
+    {
+      "name": "Unit 3",
+      "path": "./spellcheck-dictionaries/03-python.txt"
+    },
+    {
+      "name": "Unit 4",
+      "path": "./spellcheck-dictionaries/04-Pandas.txt"
+    },
+    {
+      "name": "Unit 5",
+      "path": "./spellcheck-dictionaries/05-Matplotlib.txt"
+    },
+    {
+      "name": "Unit 6",
+      "path": "./spellcheck-dictionaries/06-Python-APIs.txt"
+    },
+    {
+      "name": "Unit 7",
+      "path": "./spellcheck-dictionaries/07-Social-Analytics.txt"
+    },
+    {
+      "name": "Unit 8",
+      "path": "./spellcheck-dictionaries/08-Project-1.txt"
+    },
+    {
+      "name": "Unit 9",
+      "path": "./spellcheck-dictionaries/09-Project-2.txt"
+    },
+    {
+      "name": "Unit 10",
+      "path": "./spellcheck-dictionaries/10-SQL.txt"
+    },
+    {
+      "name": "Unit 11",
+      "path": "./spellcheck-dictionaries/11-Data-Storage.txt"
+    },
+    {
+      "name": "Unit 12",
+      "path": "./spellcheck-dictionaries/12-Web.txt"
+    },
+    {
+      "name": "Unit 13",
+      "path": "./spellcheck-dictionaries/13-Web-Scraping.txt"
+    },
+    {
+      "name": "Unit 14",
+      "path": "./spellcheck-dictionaries/14-JS.txt"
+    },
+    {
+      "name": "Unit 15",
+      "path": "./spellcheck-dictionaries/15-Visualizations.txt"
+    },
+    {
+      "name": "Unit 16",
+      "path": "./spellcheck-dictionaries/16-D3.txt"
+    },
+    {
+      "name": "Unit 17",
+      "path": "./spellcheck-dictionaries/17-Mapping-Web.txt"
+    },
+    {
+      "name": "Unit 18",
+      "path": "./spellcheck-dictionaries/18-R.txt"
+    },
+    {
+      "name": "Unit 19",
+      "path": "./spellcheck-dictionaries/19-Project-2.txt"
+    },
+    {
+      "name": "Unit 20",
+      "path": "./spellcheck-dictionaries/20-Tableau.txt"
+    },
+    {
+      "name": "Unit 21",
+      "path": "./spellcheck-dictionaries/21-Machine-Learning.txt"
+    },
+    {
+      "name": "Unit 22",
+      "path": "./spellcheck-dictionaries/22-Big-Data.txt"
+    },
+    {
+      "name": "Unit 23",
+      "path": "./spellcheck-dictionaries/23-Final-Project.txt"
+    },
+    {
+      "name": "Unit 24",
+      "path": "./spellcheck-dictionaries/24-Final-Project.txt"
+    }
+  ],
+  "ignorePaths": [
+    "package.json",
+    "package-lock.json",
+    "test-files-changed.sh",
+    "requirements.txt",
+    "package.json",
+    "yarn.lock",
+    "gulpfile.js",
+    "cspell.json",
+    "node_modules/**",
+    "environment.yml",
+    "**/Slide-Shows/**",
+    "**/Generator/**",
+    "**/Supplemental/**",
+    "07-Extra-Content/**",
+    "06-Curriculum-Resources/**",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/07-Stu_Pet_Pals/Solved/Pet_Pals_Bonus/static/css/style.css",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/07-Stu_Pet_Pals/Solved/Pet_Pals/static/css/style.css",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/07-Stu_Pet_Pals/Unsolved/Pet_Pals/static/css/style.css",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/07-Stu_Pet_Pals/Unsolved/Pet_Pals_Bonus/static/css/style.css",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/08-Ins_Pet_Pals_Refactor/Solved/pet_pals/static/css/style.css",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/08-Ins_Pet_Pals_Refactor/Unsolved/pet_pals/static/css/style.css",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/09-Evr_Pet_Pals_Heroku/Solved/pet_pals/static/css/style.css",
+    "01-Lesson-Plans/15-Interactive-Visualizations-and-Dashboards/3/Activities/09-Evr_Pet_Pals_Heroku/Unsolved/pet_pals/static/css/style.css",
+    "02-Homework/07-Social-Analytics/Solutions/NewsMood/api_keys.py",
+    "02-Homework/07-Social-Analytics/Solutions/PlotBot/api_keys.py",
+    "02-Homework/06-Python-APIs/Solutions/README.md",
+    "04-Career-Modules/Interview_Questions/02-Text_Wrap/README.md",
+    "04-Career-Modules/Technical_Interview_Sessions/02-Interview_LessonPlan/LessonPlan.md",
+    "04-Career-Modules/Technical_Interview_Sessions/01-Interview_LessonPlan/LessonPlan.md",
+    "02-Homework/06-Python-APIs/Solutions/*",
+    "**/*.db",
+    "**/migrations/**",
+    "**/settings.py",
+    "**/Poll",
+    "**/*.ipynb",
+    "**/*.svg~51e29357f0f3ed3e3ef812657c279d35bfcddf67",
+    "**/*.svg",
+    "**/*.svg~HEAD",
+    "**/*.sql",
+    "**/*.textClipping",
+    "**/*dna_unsolved.js",
+    "**/*addressData.js",
+    "**/*data.js",
+    "**/*bootstrap.min.css",
+    "**/*.twbx",
+    "**/*.twb",
+    "**/*.h5",
+    "**/*.png~HEAD",
+    "**/*.png~51e29357f0f3ed3e3ef812657c279d35bfcddf67",
+    "**/*.pdf",
+    "**/*.mov",
+    "**/*.png",
+    "**/*.jpg",
+    "**/*.xls*",
+    "**/*.pptx",
+    "**/*.docx",
+    "**/*.psd",
+    "**/*.PNG",
+    "**/*.tsv",
+    "**/*.csv",
+    "**/*.zip",
+    "**/*.mp4",
+    "**/*.lock",
+    "**/*.json",
+    "**/*.sqlite",
+    "**/*.txt",
+    "**/*.html",
+    "**/*.sav",
+    "**/*.geojson",
+    "01-Lesson-Plans/19-Project-2/**",
+    "01-Lesson-Plans/14-Intro-To-JavaScript/1/LessonPlan.md"
+  ],
+  "ignoreRegExpList": [
+    "URL",
+    "Markdown Link Path",
+    "Backticks",
+    "Markdown Link Title",
+    "Filepath",
+    "HTML Entity"
+  ],
+  "patterns": [
+    {
+      "name": "URL",
+      "pattern": "https?:\\S+"
+    },
+    {
+      "name": "Markdown Link Path",
+      "pattern": "\\[.+]\\((.+)\\)"
+    },
+    {
+      "name": "Backticks",
+      "pattern": "`.*`"
+    },
+    {
+      "name": "Markdown Link Title",
+      "pattern": "\\[(.+)]"
+    },
+    {
+      "name": "Filepath",
+      "pattern": "\\/\\S+"
+    },
+    {
+      "name": "HTML Entity",
+      "pattern": "\\&\\S+\\;"
+    }
+  ]
+}

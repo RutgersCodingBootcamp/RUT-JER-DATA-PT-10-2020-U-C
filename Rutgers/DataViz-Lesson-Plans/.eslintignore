@@ -1,0 +1,27 @@
+# /node_modules/* ignored by default
+
+# Ignore minified and vendor files
+**/Unsolved/**
+**/config.js
+**/*.min.js
+**/leaflet.timeline.js
+**/leaflet-heat.js
+**/leaflet.markercluster.js
+**/leaflet.markercluster-src.js
+**/leaflet-parallax.js
+**/MarkerCluster.css
+**/MarkerCluster.Default.css
+**/choropleth.js
+**/arrow.js
+**/Extra_Content/
+**/gulpfile.js
+**/Belly_Button_Biodiversity/**
+**/15-Interactive-Visualizations-and-Dashboards/*/Activities**
+**/14-Intro-To-JavaScript/*/Activities**
+**/02-Homework/15-Interactive-Visualizations-and-Dashboards/**
+**/01-Lesson-Plans/06-Python-APIs/3/Activities/07-Stu_Airport_Map/**
+**/01-Lesson-Plans/16-D3/**
+**/01-Lesson-Plans/17-Mapping-Web/2/Activities/**
+**/02-Homework/14-Intro-To-JavaScript/**
+**/01-Lesson-Plans/19-Project-2/Heroku_Deployment/**
+**/01-Lesson-Plans/14-Intro-To-JavaSript/1/LessonPlan.md

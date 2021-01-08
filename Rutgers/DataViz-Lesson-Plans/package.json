@@ -1,0 +1,53 @@
+{
+  "name": "dataviz-lp",
+  "version": "1.0.0",
+  "description": "Lesson plans and activities for DataViz curriculum",
+  "repository": "git@github.com:coding-boot-camp/DataViz-Lesson-Plans.git",
+  "author": "Nick Bartlett",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "echo 'use yarn travis'",
+    "travis": "cspell \"**/*.*\" && md-report . && remark . -e .md -r .remarkrc.json --quiet --frail && eslint -c .eslintrc.json . && find . -type f -name *.py | xargs -I {} pycodestyle --show-source {}",
+    "lintpy": "run(){ find $1 -type f -name *.py | xargs -I {} pycodestyle --show-source {}; }; run",
+    "lintjs": "run(){ eslint -c .eslintrc.json $1; }; run",
+    "lintmd": "run(){ remark $1 -e .md -r .remarkrc.json --quiet --frail; }; run",
+    "lintspelling": "run(){ cspell -u $1/**/*.md; }; run",
+    "spellcheck": "cspell -u \"**/*.*\"",
+    "autofix": "remark . -e .md -r .remarkrc.json -o --quiet && eslint -c .eslintrc.json **/*.js --fix && gulp autofix && gulp autofix && find . -type f -name *.py | xargs -I {} autopep8 --in-place --aggressive --aggressive {}"
+  },
+  "keywords": [
+    "curriculum",
+    "data visualization",
+    "data analytics"
+  ],
+  "contributors": [
+    "Ahmed Haque",
+    "Albert Min",
+    "Christian Eckenrode",
+    "Jacob TKC Deming",
+    "Kevin Graber",
+    "Matthew Giordanella",
+    "Nick Bartlett",
+    "Peleke Sengstacke"
+  ],
+  "devDependencies": {
+    "cspell": "^3.1.3",
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "gulp": "^3.9.1",
+    "gulp-stylefmt": "^1.1.0",
+    "gulp-stylelint": "^3.9.0",
+    "remark-cli": "^2.1.0",
+    "remark-lint": "^5.4.0",
+    "remark-preset-lint-consistent": "^1.0.0",
+    "remark-preset-lint-recommended": "^1.0.0",
+    "stylelint-config-primer": "^1.4.0"
+  },
+  "dependencies": {
+    "markdown-link-reporter": "^1.1.1"
+  }
+}
