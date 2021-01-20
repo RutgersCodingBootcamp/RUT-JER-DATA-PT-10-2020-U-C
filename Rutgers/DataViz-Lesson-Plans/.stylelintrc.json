@@ -1,9 +1,0 @@
-{
-  "extends": "stylelint-config-primer",
-  "rules": {
-    "color-named": null,
-    "selector-no-type": null,
-    "selector-no-id": null,
-    "selector-max-specificity": "4,4,4"
-  }
-}
