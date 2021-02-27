@@ -1,7 +1,0 @@
- {
-   "globals": {
-     "L": true,
-     "moment": true,
-     "d3": true
-   }
- }
