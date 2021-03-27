@@ -1,0 +1,137 @@
+breed,obey,reps_lower,reps_upper
+Border Collie,0.95,1,4
+Poodle,0.95,1,4
+German Shepherd,0.95,1,4
+Golden Retriever,0.95,1,4
+Doberman Pinscher,0.95,1,4
+Shetland Sheepdog,0.95,1,4
+Labrador Retriever,0.95,1,4
+Papillon,0.95,1,4
+Rottweiler,0.95,1,4
+Australian Cattle Dog,0.95,1,4
+Pembroke Welsh Corgi,0.85,5,15
+Miniature Schnauzer,0.85,5,15
+English Springer Spaniel,0.85,5,15
+Belgian Shepherd Dog (Tervuren),0.85,5,15
+Schipperke,0.85,5,15
+Belgian Sheepdog,0.85,5,15
+Collie,0.85,5,15
+Keeshond,0.85,5,15
+German Shorthaired Pointer,0.85,5,15
+Flat-Coated Retriever,0.85,5,15
+English Cocker Spaniel,0.85,5,15
+Standard Schnauzer,0.85,5,15
+Brittany,0.85,5,15
+Cocker Spaniel,0.85,5,15
+Weimaraner,0.85,5,15
+Belgian Malinois,0.85,5,15
+Bernese Mountain Dog,0.85,5,15
+Pomeranian,0.85,5,15
+Irish Water Spaniel,0.85,5,15
+Vizsla,0.85,5,15
+Cardigan Welsh Corgi,0.85,5,15
+Chesapeake Bay Retriever,0.7,16,25
+Puli,0.7,16,25
+Yorkshire Terrier,0.7,16,25
+Giant Schnauzer,0.7,16,25
+Portuguese Water Dog,0.7,16,25
+Airedale Terrier,0.7,16,25
+Bouvier des Flandres,0.7,16,25
+Border Terrier,0.7,16,25
+Briard,0.7,16,25
+Welsh Springer Spaniel,0.7,16,25
+Manchester Terrier,0.7,16,25
+Samoyed,0.7,16,25
+Field Spaniel,0.7,16,25
+Newfoundland,0.7,16,25
+Australian Terrier,0.7,16,25
+American Staffordshire Terrier,0.7,16,25
+Gordon Setter,0.7,16,25
+Bearded Collie,0.7,16,25
+Cairn Terrier,0.7,16,25
+Kerry Blue Terrier,0.7,16,25
+Irish Setter,0.7,16,25
+Norwegian Elkhound,0.7,16,25
+Affenpinscher,0.7,16,25
+Australian Silky Terrier,0.7,16,25
+Miniature Pinscher,0.7,16,25
+English Setter,0.7,16,25
+Pharaoh Hound,0.7,16,25
+Clumber Spaniel,0.7,16,25
+Norwich Terrier,0.7,16,25
+Dalmatian,0.7,16,25
+Soft-coated Wheaten Terrier,0.5,26,40
+Bedlington Terrier,0.5,26,40
+Fox Terrier (Smooth),0.5,26,40
+Curly Coated Retriever,0.5,26,40
+Irish Wolfhound,0.5,26,40
+Kuvasz,0.5,26,40
+Australian Shepherd,0.5,26,40
+Saluki,0.5,26,40
+Finnish Spitz,0.5,26,40
+Pointer,0.5,26,40
+Cavalier King Charles Spaniel,0.5,26,40
+German Wirehaired Pointer,0.5,26,40
+Black and Tan Coonhound,0.5,26,40
+American Water Spaniel,0.5,26,40
+Siberian Husky,0.5,26,40
+Bichon Frise,0.5,26,40
+King Charles Spaniel,0.5,26,40
+Tibetan Spaniel,0.5,26,40
+English Foxhound,0.5,26,40
+Otterhound,0.5,26,40
+Jack Russell terrier,0.5,26,40
+American Foxhound,0.5,26,40
+Greyhound,0.5,26,40
+Wirehaired Pointing Griffon,0.5,26,40
+West Highland White Terrier,0.5,26,40
+Havanese,0.5,26,40
+Scottish Deerhound,0.5,26,40
+Boxer,0.5,26,40
+Great Dane,0.5,26,40
+Dachshund,0.5,26,40
+Shiba Inu,0.5,26,40
+Staffordshire Bull Terrier,0.5,26,40
+Alaskan Malamute,0.5,26,40
+Whippet,0.5,26,40
+Chinese Shar Pei,0.5,26,40
+Wire Fox Terrier,0.5,26,40
+Rhodesian Ridgeback,0.5,26,40
+Ibizan Hound,0.5,26,40
+Welsh Terrier,0.5,26,40
+Irish Terrier,0.5,26,40
+Boston Terrier,0.5,26,40
+Akita,0.5,26,40
+Skye Terrier,0.3,41,80
+Norfolk Terrier,0.3,41,80
+Sealyham Terrier,0.3,41,80
+Pug,0.3,41,80
+French Bulldog,0.3,41,80
+Griffon Bruxellois,0.3,41,80
+Maltese,0.3,41,80
+Italian Greyhound,0.3,41,80
+Chinese Crested,0.3,41,80
+Dandie Dinmont Terrier,0.3,41,80
+Petit Basset Griffon Vendí©en,0.3,41,80
+Tibetan Terrier,0.3,41,80
+Japanese Chin,0.3,41,80
+Lakeland Terrier,0.3,41,80
+Old English Sheepdog,0.3,41,80
+Great Pyrenees,0.3,41,80
+Scottish Terrier,0.3,41,80
+Saint Bernard,0.3,41,80
+Bull Terrier,0.3,41,80
+Chihuahua,0.3,41,80
+Lhasa Apso,0.3,41,80
+Bullmastiff,0.3,41,80
+Shih Tzu,,81,100
+Basset Hound,,81,100
+Mastiff,,81,100
+Beagle,,81,100
+Pekingese,,81,100
+Bloodhound,,81,100
+Borzoi,,81,100
+Chow Chow,,81,100
+Bulldog,,81,100
+Basenji,,81,100
+Afghan Hound,,81,100
